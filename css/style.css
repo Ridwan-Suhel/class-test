@@ -1,0 +1,29 @@
+.hero-section{
+	background-image: url(../image/hero-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+.slider{
+	background-color: rgba(1,1,1,0.7);
+	color: #fff;
+	padding: 40px 70px;
+	margin: 50px 0px 80px 0px;
+}
+.slider h5{
+	font-size: 32px;
+	margin-bottom: 30px;
+}
+.slider p{}
+.slider button{
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+.carousel-indicators{
+	bottom: 80px;
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
